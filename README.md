@@ -3,7 +3,7 @@
 <div class="sobre-mim"> 
     <h3> 💫Sobre mim: <h3> 
         <p>🎓Formada em Tecnologia da Informação </p>
-        <p>👩🏻‍💻Atualmente estou me aprofundando no desenvolvimento de software</p> 
+        <p>👩🏻‍💻Atualmente estou me aprofundando no desenvolvimento front end</p> 
         <p>💜Mãe do Miguel José </p>
 <div class="redes-sociais">
     <h3>🌐 Onde me encontrar:</h3>
