@@ -1,7 +1,7 @@
 <h2 align="center">Olá, sou a Luana 👋</h2>
 
 <p align="center">
-Analista de Sistemas em Indaiatuba/SP, com 7 anos de experiência em TI. Faço a ponte entre as áreas de negócio e a tecnologia: mapeio processos, implanto sistemas e treino quem vai usá-los. Também desenvolvo soluções com <b>IA</b>.
+Analista de Sistemas em Indaiatuba/SP, com 7 anos de experiência em TI. Faço a ponte entre as áreas de negócio e a tecnologia: mapeio processos, implanto sistemas e treino quem vai usá-los. Também desenvolvo soluções com IA.
 </p>
 
 ### 🎓 Formação
