@@ -8,10 +8,6 @@ Analista de Sistemas em Indaiatuba/SP, com 7 anos de experiência em TI. Faço a
 
 Tecnologia da Informação, Fatec Indaiatuba
 
-### 💜 Sobre mim
-
-Mamãe do Miguel
-
 ### 🌐 Onde me encontrar
 
 <a href="https://www.linkedin.com/in/luanaacarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
