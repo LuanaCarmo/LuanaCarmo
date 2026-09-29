@@ -6,7 +6,7 @@ Analista de Sistemas em Indaiatuba/SP, com 7 anos de experiência em TI. Faço a
 
 ### 🎓 Formação
 
-Tecnologia da Informação, Fatec Indaiatuba
+Tecnologia da Informação, Fatec Indaiatuba.
 
 ### 🛠️ Tecnologias 
 
